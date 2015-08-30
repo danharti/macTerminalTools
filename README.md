@@ -1,9 +1,11 @@
 # macTerminalSyntax
 
 List of all the AppleOSX command Line
+
 http://ss64.com/osx/
 
 Great articles to read about it:
+
 Eight Terminal Utilities Every OS X Command Line User Should Know
 http://www.mitchchn.me/2014/os-x-terminal/
 
