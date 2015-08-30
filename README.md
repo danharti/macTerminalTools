@@ -1,3 +1,12 @@
+# macTerminalSyntax
+
+List of all the AppleOSX command Line
+http://ss64.com/osx/
+
+Great articles to read about it:
+Eight Terminal Utilities Every OS X Command Line User Should Know
+http://www.mitchchn.me/2014/os-x-terminal/
+
 # macTerminalTools
 
 Github Terminal
@@ -12,11 +21,4 @@ Sublime Text 2
 
 Launch Sublime Text 2 - https://gist.github.com/olivierlacan/1195304
 
-# macTerminalSyntax
 
-List of all the AppleOSX command Line
-http://ss64.com/osx/
-
-Great articles to read about it:
-Eight Terminal Utilities Every OS X Command Line User Should Know
-http://www.mitchchn.me/2014/os-x-terminal/
